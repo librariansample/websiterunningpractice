@@ -1,0 +1,12 @@
+<html>
+
+<frameset rows="30%,*">
+   <frame src="e:\lib.html">
+   
+<frameset cols="45%,*">
+         <frame src="e:\lib2.html">
+       
+<frame src="e:\lib3.html">
+
+</frameset>
+</frameset>
